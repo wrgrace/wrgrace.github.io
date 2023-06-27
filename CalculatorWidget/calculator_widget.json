@@ -13,21 +13,21 @@
         {
             "kind": "main",
             "tag": "calculator-widget",
-            "url": "https://planifyit.github.io/SAC_Calculator/CalculatorWidget.js",
+            "url": "https://wrgrace.github.io/CalculatorWidget/CalculatorWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-sap-sample-calculator-styling",
-            "url": "https://planifyit.github.io/SAC_Calculator/style-panel.js",
+            "url": "https://wrgrace.github.io/CalculatorWidget/style-panel.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-sap-sample-calculator-builder",
-            "url": "https://planifyit.github.io/SAC_Calculator/builder-panel.js",
+            "url": "https://wrgrace.github.io/CalculatorWidget/builder-panel.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
